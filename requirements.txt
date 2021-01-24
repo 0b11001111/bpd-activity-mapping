@@ -1,0 +1,9 @@
+pulp
+graphviz
+tabulate
+numpy
+scipy
+matplotlib
+pandas
+networkx
+tqdm
