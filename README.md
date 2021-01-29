@@ -32,7 +32,7 @@ and many more.
 
 ---
 
-| Avtivity Mapping Inferred from _q_ simulating _p_ | Callgraph Re-constructed by `trace` |
+| Avtivity mapping inferred from _q_ simulating _p_ | Callgraph re-constructed by `trace` |
 |:-------------------------------------------------:|:-----------------------------------:|
 | ![mapping](img/mapping.svg)                       | ![callgraph](img/callgraph.svg)     |
 
